@@ -2,7 +2,7 @@
 <hr>
 👀 I’m currently learning Django
 
-- 📫 How to reach me
+- 📫 How to reach me:
 
 [![instagram](https://img.shields.io/badge/Parsa-000000?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/parsa_.r9)](https://instagram.com/parsa_.r9) 
 <!---
