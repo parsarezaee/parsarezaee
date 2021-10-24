@@ -1,6 +1,6 @@
 👋 Hi, I'm Parsa
 <hr>
-👀 I’m currently learning Django
+I’m currently learning Django
 
 - 📫 How to reach me:
 
