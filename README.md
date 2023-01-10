@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parsa Rezaei</h1>
 <h3 align="center">A passionate Back-End developer</h3>
 
-- 🔭 I’m currently working on [Online shop](https://github.com/parsarezaee/online-shop)
+- 🔭 I’m currently working
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Python** & **Django**
 
 - 📫 How to reach me **me.parsarezaei@gmail.com**
 
