@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently learning Node.js with Express.js <br>💬 Ask me about Python & Django<br>
+💬 Ask me about Python & Django<br>
 
 
 ## 🌐 Socials:
