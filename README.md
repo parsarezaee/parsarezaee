@@ -55,11 +55,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parsarezaee&theme=dark&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=parsarezaee&theme=dark&hide_border=true&include_all_commits=true&count_private=false) <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=parsarezaee&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=parsarezaee&theme=dark&hide_border=true) <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parsarezaee&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsarezaee&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
